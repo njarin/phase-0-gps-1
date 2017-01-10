@@ -1,7 +1,8 @@
 **I am typing in BOLD**
 
 *This is in italics*
-*I am typing with italics*
+**This is in bold**
+*I am typing with ITALICS*
 
     code block
 
