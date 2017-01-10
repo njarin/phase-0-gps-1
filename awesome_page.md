@@ -1,4 +1,4 @@
-**I am typing in bold**
+**I am typing in BOLD**
 
 *I am typing with italics*
 
