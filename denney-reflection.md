@@ -9,4 +9,4 @@
 
 * What still confuses you about Git? I think there are just different ways of doing things, and so when someone goes about a command differently, it can be confusing at first. But it is helpful to see someone use a different command to reach the same result. I should push myself to find other ways to do things, or at least be familiar. 
 
-*How was your first experience of pairing in a GPS? It was great! My pair was really fantastic to work with. I was nervous at first, but then it just felt really natural and fun. 
+* How was your first experience of pairing in a GPS? It was great! My pair was really fantastic to work with. I was nervous at first, but then it just felt really natural and fun. 
